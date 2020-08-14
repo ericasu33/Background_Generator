@@ -3,7 +3,6 @@ var color1 = document.querySelector(".color1");
 var color2 = document.querySelector(".color2");
 var random = document.querySelector(".random");
 var body = document.getElementById("gradient");
-var h1 = document.querySelector("h1");
 
 body.onload = setGradient();
 
